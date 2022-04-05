@@ -674,7 +674,7 @@ public class Hauptclasse extends JFrame implements ActionListener {
             labelnames.setText("Name: " + snackl.get(8).getName());
             labelpreiss.setText("Preis: " + snackl.get(8).getPreis());
             labelbestands.setText("Bestand: " + snackl.get(8).getBestand());
-            aktuellerSnack=snackl.get(8);
+            aktuellerSnack=snackl.get(8); //
         }
     }
 }
