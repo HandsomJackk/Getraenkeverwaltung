@@ -676,9 +676,5 @@ public class Hauptclasse extends JFrame implements ActionListener {
             labelbestands.setText("Bestand: " + snackl.get(8).getBestand());
             aktuellerSnack=snackl.get(8);
         }
-        
-    
-
-}
-
+    }
 }

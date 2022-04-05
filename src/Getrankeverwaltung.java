@@ -22,7 +22,7 @@ public class Getrankeverwaltung{
         getraenkl.add(new Getraenk("Doener Cola",2.99,200));
 
 
-        snackl.add(new Snack("Snikers", 1.29, 200));
+        snackl.add(new Snack("Snikers", 1.29, 200));                   //Snack anzeige zählen von 0
         snackl.add(new Snack("Baunti", 1.39, 300));
         snackl.add(new Snack("Skitles", 1.49, 500));
         snackl.add(new Snack("Cliffbar", 1.59, 800));
